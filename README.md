@@ -1,92 +1,121 @@
-# 👋 Hi there, I'm Diego Gonzales Soto
-## QA Engineer | Software Tester | API Testing | Web Scraping | UI Testing | Python
+# Diego Gonzales Soto | QA Engineer & Automation Expert
+
+<p align="center">
+  <img src="https://scontent-scl2-1.xx.fbcdn.net/v/t39.30808-6/467508184_122117520728408731_1230028583776516827_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=zioF-OdshLkQ7kNvwHo4Tta&_nc_oc=Adm-fp4MdejPiOL5fT1KunuXjOypmlhnLcuRPZ-C9v8c6o_3T-YmhQCpCfvXpvHAvDb4TmYSdWUskMzCqFpQT3Oi&_nc_zt=23&_nc_ht=scontent-scl2-1.xx&_nc_gid=1F4pSvE2gXUbDvpPOkNgZw&oh=00_AfSXggapg9vTxPj6d4P2YgP3lmSztKwZ1lC2xXZ-vi2Z3Q&oe=687DDC77" alt="Diego Gonzales Soto | QA Engineer & Automation"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-gonzales-soto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dgsoto.testing.bo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+## 👋 Hi there! I'm Diego
+
+I am a Quality Assurance (QA) Engineer based in Cochabamba, Bolivia 🇧🇴, with a passion for automation and creating efficient testing processes. My objective is to ensure the highest software quality by collaborating with global teams to deliver robust and reliable products.
+
+
+<details>
+<summary>💻 View my profile as a JavaScript object</summary>
+<br>
+
 ```javascript
-const DiegoGonzalesSoto = {
-    work: "Quality Assurance Engineer",
-    home: "Cochabamba, Bolivia",
-    phone: "+591 65242442",
+const diegoGonzalesSoto = {
+    name: "Diego Gonzales Soto",
+    pronouns: "He/Him",
+    title: "Quality Assurance Engineer",
+    location: "Calama, Antofagasta, Chile",
+    nationality: "Bolivian",
+    phone: "+56 9 6684 0210",
     email: "dgsoto.testing.bo@gmail.com",
-    code: ["Python", "Shell", "PHP", "HTML/CSS"],
-    askMeAbout: ["QA practices", "API testing", "automation solutions", "software quality"],
-    technologies: {
-        backEnd: ["MySQL", "Microsoft SQL Server"],
-        frontEnd: ["Web App Testing", "Cross-Browser Testing"],
-        build: ["Jenkins", "GitHub Actions"],
-        devOps: ["CI/CD pipelines", "Test Automation"],
+    availability: "Immediate",
+    technicalSkills: {
+        programmingLanguages: ["Python", "JavaScript", "Shell Scripting", "PHP", "HTML/CSS", "SQL"],
+        automationFrameworksTools: ["PyTest", "Postman", "Selenium (Web)", "API Testing Tools", "Playwright", "Cypress"],
+        webScrapingTools: ["Beautiful Soup", "Scrapy", "Requests"],
         databases: ["MySQL", "Microsoft SQL Server"],
-        misc: ["Postman", "PyTest", "Jira", "TestRail"]
+        devOpsCI_CD: ["Jenkins", "GitHub Actions", "CI/CD Pipelines"],
+        projectManagementTools: ["Jira", "Confluence", "Trello", "TestRail"],
+        backendDevelopment: ["FastAPI", "Flask"],
+        webTechnologies: ["Web App Testing", "Cross-Browser Compatibility Testing"],
     },
-    testing: {
-        approaches: ["API Testing", "Web App Testing", "White Box Testing"],
-        techniques: ["Back-end Testing", "Acceptance Testing", "Exploratory Testing",
-                     "Functional Testing", "Regression Testing", "Performance Testing"]
-    },
-    currentFocus: "Streamlining testing processes with automation and improving team efficiency",
-    hobbies: ["Continuous learning", "Collaborative problem-solving", "Exploring new QA tools"],
-    funFact: "I’ve worked with teams across the globe to ensure software quality and integrity!"
+    testingExpertise: [
+        "API Testing",
+        "Web Application Testing",
+        "Cross-Browser Compatibility Testing",
+        "Back-end Testing",
+        "Acceptance Testing",
+        "Exploratory Testing",
+        "Functional Testing",
+        "Regression Testing",
+        "Performance Testing",
+        "White Box Testing"
+    ],
+    softSkills: [
+        "Teamwork",
+        "Problem-Solving",
+        "Proactivity",
+        "Attention to Detail",
+        "Punctuality",
+        "Responsibility",
+        "Adaptability",
+        "Effective Communication"
+    ],
+    currentFocus: "Streamlining testing processes with automation and improving team efficiency.",
+    valueProposition: "Proven ability to ensure software quality and integrity by collaborating with global teams and implementing robust testing strategies, complemented by strong programming and data extraction skills.",
 };
 
-console.info(DiegoGonzalesSoto);
+console.info(diegoGonzalesSoto);
 ```
+</details>
 
-## 📌 About Me
-I’m a Quality Assurance Engineer with a strong background in software development and a proven track record of implementing best practices for quality assurance. My expertise lies in conducting comprehensive testing, analyzing defects, and recommending enhancements to elevate product excellence. I thrive in collaborative environments and am passionate about continuous learning and process improvement.
+<br>
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/diego-gonzales-soto/) or reach out via email at dgsoto.testing.bo@gmail.com .
+*   🔭 I’m currently focused on **automating API testing workflows** to improve efficiency.
+*   🌱 I’m constantly learning about **new QA tools and trends in DevOps**.
+*   ⚡ Fun fact: I have collaborated with teams around the world to ensure software integrity and quality!
+
+---
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+</p>
+
+---
 
 ## 💼 Professional Experience
-### 🏢 Jalasoft | QA Tester - API Automation
-- Automated API processes for deploying snapshot/cross-region copy features.
-- Conducted thorough API testing and collaborated with international teams to ensure product quality.
-- Created automation scripts to streamline resource management and improve team efficiency.
-- Utilized tools like Jira, Confluence, Python, PyTest, Postman, and GitHub for agile task management and bug tracking.
 
-### 🏢 Jalasoft Client | QA Tester - Web Testing
-- Tested API/UI web functionalities for cloud object storage and file storage features.
-- Developed and executed test cases using tools like Postman, Jenkins, and Browserstack.
-- Contributed to optimizing testing processes with scripts and tools to enhance efficiency.
+### **Jalasoft | QA Tester - API Automation**
+*   Automated API processes for deploying snapshot and cross-region copy functionalities.
+*   Led comprehensive API testing in collaboration with international teams to ensure product quality.
+*   Developed automation scripts to streamline resource management and improve team efficiency.
+*   Utilized tools like Jira, Confluence, Python, PyTest, Postman, and GitHub for agile task management and bug tracking.
 
+### **Jalasoft | QA Tester - Web Testing**
+*   Tested API/UI web functionalities for cloud object storage and file storage features.
+*   Developed and executed test cases using tools such as Postman, Jenkins, and BrowserStack.
+*   Contributed to optimizing testing processes with scripts and tools to enhance efficiency.
 
-## 🛠️ Skills
+---
 
-| **Category**                     | **Skills**                                                                 | **Level**       |
-|-----------------------------------|---------------------------------------------------------------------------------|-----------------|
-| 💻 **Programming, Scripting, and Markup Languages** | Python, Shell, PHP, HTML/CSS                                                    | ✅ Medium        |
-| ⚙️ **Automation Tools and Frameworks** | Pytest                                                                         | ✅ Medium        |
-| 📚 **Other Frameworks, Libraries, and Tools** | Postman                                                                        | ✅ Advanced      |
-| 💼 **Project Management, Defects, and Test Cases Tools** | Jira, TestRail, TestLink                                                      | ✅ Medium        |
-| 📂 **Version Control**               | GitHub                                                                         | ✅ Medium        |
-| 🔍 **Test Context & Approaches**     | API Testing, Web App Testing, White Box Testing                                | ✅ Advanced      |
-| 🎯 **Test Techniques & Types**       | Back-end Testing, Acceptance Testing, Exploratory Testing, Functional Testing, Regression Testing, Performance Testing | ✅ Advanced      |
-| 🗄️  **Databases**                     | MySQL, Microsoft SQL Server                                                    | ✅ Medium        |
+## 📊 My GitHub Stats
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dgsoto&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsoto&layout=compact&theme=dark" />
+</p>
 
-## Current Projects
-- Automating API testing workflows to improve efficiency and accuracy.
-- Collaborating with cross-functional teams to enhance software quality and reliability.
-
-## 🌐 Languages
-- 🇪🇸 Spanish: Native
-- 🇬🇧 English: Proficient
-
-## 📊 Stats
-![AnWeber's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsoto&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsoto)
-
-
-
-<!--
-**dgsoto/dgsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">
+  <b> visitors: </b> <br>
+  <img src="https://profile-counter.glitch.me/dgsoto/count.svg" />
+</p>
