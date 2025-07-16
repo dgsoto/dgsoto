@@ -7,6 +7,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-gonzales-soto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:dgsoto.testing.bo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://wa.me/56966840210" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Chile"> 🇨🇱</a>
+  <a href="https://wa.me/59165242442" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Bolivia"> 🇧🇴</a>
 </p>
 
 ## 👋 Hi there! I'm Diego
@@ -108,5 +110,5 @@ console.info(diegoGonzalesSoto);
 ---
 <p align="center">
   <b> visitors: </b> <br>
-  <img src="https://profile-counter.glitch.me/dgsoto/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=dgsoto" alt="Profile views" />
 </p>
