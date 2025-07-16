@@ -21,47 +21,38 @@ I am a Quality Assurance (QA) Engineer based in Cochabamba, Bolivia 🇧🇴, wi
 ```javascript
 const diegoGonzalesSoto = {
     name: "Diego Gonzales Soto",
-    pronouns: "He/Him",
-    title: "Quality Assurance Engineer",
-    location: "Calama, Antofagasta, Chile",
-    nationality: "Bolivian",
-    phone: "+56 9 6684 0210",
-    email: "dgsoto.testing.bo@gmail.com",
-    availability: "Immediate",
-    technicalSkills: {
-        programmingLanguages: ["Python", "JavaScript", "Shell Scripting", "PHP", "HTML/CSS", "SQL"],
-        automationFrameworksTools: ["PyTest", "Postman", "Selenium (Web)", "API Testing Tools", "Playwright", "Cypress"],
-        webScrapingTools: ["Beautiful Soup", "Scrapy", "Requests"],
-        databases: ["MySQL", "Microsoft SQL Server"],
-        devOpsCI_CD: ["Jenkins", "GitHub Actions", "CI/CD Pipelines"],
-        projectManagementTools: ["Jira", "Confluence", "Trello", "TestRail"],
-        backendDevelopment: ["FastAPI", "Flask"],
-        webTechnologies: ["Web App Testing", "Cross-Browser Compatibility Testing"],
+    title: "Quality Assurance Engineer | Test Automation Specialist",
+    location: "Calama, Chile",
+    availability: "Open to new opportunities",
+    
+    focusAreas: {
+        automation: "API & Web UI Testing (PyTest, Selenium, Playwright, Cypress)",
+        development: "Backend Scripting with Python (FastAPI, Flask)",
+        data: "Web Scraping (Beautiful Soup, Scrapy) & Databases (SQL)",
+        devops: "CI/CD Integration (Jenkins, GitHub Actions)"
     },
+
     testingExpertise: [
-        "API Testing",
-        "Web Application Testing",
-        "Cross-Browser Compatibility Testing",
-        "Back-end Testing",
-        "Acceptance Testing",
-        "Exploratory Testing",
-        "Functional Testing",
-        "Regression Testing",
-        "Performance Testing",
-        "White Box Testing"
+        "API Testing", "Web Application Testing", "Cross-Browser Compatibility Testing",
+        "Back-end Testing", "Acceptance Testing", "Exploratory Testing", "Functional Testing",
+        "Regression Testing", "Performance Testing", "White Box Testing"
     ],
+
+    techStack: {
+        languages: ["Python", "JavaScript", "Shell", "SQL"],
+        frameworks: ["PyTest", "FastAPI", "Flask", "Scrapy"],
+        tools: ["Postman", "Selenium", "Jira", "Confluence","Trello", "TestRail", "Git"],
+        infrastructure: ["Jenkins", "GitHub Actions", "MySQL", "SQL Server"]
+    },
+
     softSkills: [
-        "Teamwork",
-        "Problem-Solving",
-        "Proactivity",
-        "Attention to Detail",
-        "Punctuality",
-        "Responsibility",
-        "Adaptability",
-        "Effective Communication"
+        "Proactive Problem-Solving", "Meticulous Attention to Detail",
+        "Agile & Adaptable Mindset", "Clear & Effective Communication"
     ],
-    currentFocus: "Streamlining testing processes with automation and improving team efficiency.",
-    valueProposition: "Proven ability to ensure software quality and integrity by collaborating with global teams and implementing robust testing strategies, complemented by strong programming and data extraction skills.",
+
+    mission: `To build world-class quality gates for software products
+              through robust automation, deep technical analysis, and
+              a passion for flawless user experiences.`
 };
 
 console.info(diegoGonzalesSoto);
