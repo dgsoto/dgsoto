@@ -25,8 +25,8 @@ const diegoGonzalesSoto = {
     title: "Quality Assurance Engineer | Test Automation Specialist",
     location: "Calama, Chile",
     availability: "Open to new opportunities",
-    portfolioLink: "[https://tu-portafolio.com](https://tu-portafolio.com)",
-    blogLink: "[https://tu-blog.com](https://tu-blog.com)",
+    portfolioLink: "https://dgsoto.github.io/portfolio/",
+    blogLink: "https://dgsoto.github.io/portfolio/blog",
     
     focusAreas: {
         automation: "API & Web UI Testing (PyTest, Selenium, Playwright, Cypress)",
