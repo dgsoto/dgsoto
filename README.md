@@ -98,18 +98,19 @@ Here are some projects that highlight my expertise in **QA** and **automation**.
 * **Description:** Developed a robust **API automation framework** using **Python** and **PyTest** for efficient and scalable testing of RESTful APIs. This project demonstrates advanced test case design and **CI/CD integration**.
 * **Technologies:** Python, PyTest, Requests, Jenkins.
 * **Key Features:** Automated data validation, error handling, performance checks.
-* **Demo:** [Link to Live Demo (if applicable)]
+* **Demo:** [Link to Live Demo]
 
 ### [Project Name 2: Web UI Test Suite with Playwright](https://github.com/dgsoto/your-second-project-name)
 * **Description:** A comprehensive **Web UI test suite** built with **Playwright** and **JavaScript** for cross-browser compatibility testing. Focuses on **end-to-end testing** and **regression testing** for complex web applications.
 * **Technologies:** JavaScript, Playwright, Node.js.
 * **Key Features:** Page Object Model implementation, visual regression testing, parallel execution.
-* **Demo:** [Link to Live Demo (if applicable)]
+* **Demo:** [Link to Live Demo]
 
 ### [Project Name 3: Data-Driven Testing for Backend Applications](https://github.com/dgsoto/your-third-project-name)
 * **Description:** Implemented a **data-driven testing solution** for backend services, leveraging **Python** and **Flask**. This project showcases **backend scripting** and **database testing (SQL)** capabilities.
 * **Technologies:** Python, Flask, SQL (MySQL/PostgreSQL), PyTest.
 * **Key Features:** Dynamic test data generation, integration with relational databases.
+* **Demo:** [Link to Live Demo]
 
 ---
 
