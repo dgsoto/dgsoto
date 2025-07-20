@@ -13,8 +13,7 @@
 
 ## 👋 Hi there! I'm Diego
 
-I am a Quality Assurance (QA) Engineer based in Cochabamba, Bolivia 🇧🇴, with a passion for automation and creating efficient testing processes. My objective is to ensure the highest software quality by collaborating with global teams to deliver robust and reliable products.
-
+I am a **Quality Assurance (QA) Engineer** with roots in Cochabamba, Bolivia 🇧🇴, and currently based in Calama, Chile 🇨🇱. I have a strong passion for **automation** and creating efficient **testing processes**. My objective is to ensure the **highest software quality** by collaborating with global teams to deliver **robust and reliable products**, always focusing on **flawless user experiences** and **agile methodologies**.
 
 <details>
 <summary>💻 View my profile as a JavaScript object</summary>
@@ -26,6 +25,8 @@ const diegoGonzalesSoto = {
     title: "Quality Assurance Engineer | Test Automation Specialist",
     location: "Calama, Chile",
     availability: "Open to new opportunities",
+    portfolioLink: "[https://tu-portafolio.com](https://tu-portafolio.com)",
+    blogLink: "[https://tu-blog.com](https://tu-blog.com)",
     
     focusAreas: {
         automation: "API & Web UI Testing (PyTest, Selenium, Playwright, Cypress)",
@@ -37,14 +38,14 @@ const diegoGonzalesSoto = {
     testingExpertise: [
         "API Testing", "Web Application Testing", "Cross-Browser Compatibility Testing",
         "Back-end Testing", "Acceptance Testing", "Exploratory Testing", "Functional Testing",
-        "Regression Testing", "Performance Testing", "White Box Testing"
+        "Regression Testing", "Performance Testing", "White Box Testing", "Agile Methodologies", "Quality Assurance"
     ],
 
     techStack: {
         languages: ["Python", "JavaScript", "Shell", "SQL"],
-        frameworks: ["PyTest", "FastAPI", "Flask", "Scrapy"],
-        tools: ["Postman", "Selenium", "Jira", "Confluence","Trello", "TestRail", "Git"],
-        infrastructure: ["Jenkins", "GitHub Actions", "MySQL", "SQL Server"]
+        frameworks: ["PyTest", "FastAPI", "Flask", "Scrapy", "Selenium WebDriver", "Playwright", "Cypress"],
+        tools: ["Postman", "Selenium", "Jira", "Confluence","Trello", "TestRail", "Git", "BrowserStack"],
+        infrastructure: ["Jenkins", "GitHub Actions", "MySQL", "SQL Server"]
     },
 
     softSkills: [
@@ -63,9 +64,9 @@ console.info(diegoGonzalesSoto);
 
 <br>
 
-*   🔭 I’m currently focused on **automating API testing workflows** to improve efficiency.
-*   🌱 I’m constantly learning about **new QA tools and trends in DevOps**.
-*   ⚡ Fun fact: I have collaborated with teams around the world to ensure software integrity and quality!
+*   🔭 I’m currently focused on **automating API testing workflows** to improve efficiency and validate **software integrity**.
+*   🌱 I’m constantly learning about **new QA tools and trends in DevOps**, with a keen interest in **safetty in software tests.**.
+*   ⚡ Fun fact: I have collaborated with teams around the world to ensure software integrity and quality, specializing in **automation script development** and **software validation**.
 
 ---
 
@@ -73,8 +74,12 @@ console.info(diegoGonzalesSoto);
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium WebDriver"/>
+  <img src="https://img.shields.io/badge/Playwright-212A2F?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
@@ -85,18 +90,41 @@ console.info(diegoGonzalesSoto);
 
 ---
 
+## ✨ Featured Projects
+
+Here are some projects that highlight my expertise in **QA** and **automation**. Click on each to explore the code and see them in action!
+
+### [Project Name 1: API Automation Framework](https://github.com/dgsoto/your-first-project-name)
+* **Description:** Developed a robust **API automation framework** using **Python** and **PyTest** for efficient and scalable testing of RESTful APIs. This project demonstrates advanced test case design and **CI/CD integration**.
+* **Technologies:** Python, PyTest, Requests, Jenkins.
+* **Key Features:** Automated data validation, error handling, performance checks.
+* **Demo:** [Link to Live Demo (if applicable)]
+
+### [Project Name 2: Web UI Test Suite with Playwright](https://github.com/dgsoto/your-second-project-name)
+* **Description:** A comprehensive **Web UI test suite** built with **Playwright** and **JavaScript** for cross-browser compatibility testing. Focuses on **end-to-end testing** and **regression testing** for complex web applications.
+* **Technologies:** JavaScript, Playwright, Node.js.
+* **Key Features:** Page Object Model implementation, visual regression testing, parallel execution.
+* **Demo:** [Link to Live Demo (if applicable)]
+
+### [Project Name 3: Data-Driven Testing for Backend Applications](https://github.com/dgsoto/your-third-project-name)
+* **Description:** Implemented a **data-driven testing solution** for backend services, leveraging **Python** and **Flask**. This project showcases **backend scripting** and **database testing (SQL)** capabilities.
+* **Technologies:** Python, Flask, SQL (MySQL/PostgreSQL), PyTest.
+* **Key Features:** Dynamic test data generation, integration with relational databases.
+
+---
+
 ## 💼 Professional Experience
 
 ### **Jalasoft | QA Tester - API Automation**
 *   Automated API processes for deploying snapshot and cross-region copy functionalities.
-*   Led comprehensive API testing in collaboration with international teams to ensure product quality.
-*   Developed automation scripts to streamline resource management and improve team efficiency.
-*   Utilized tools like Jira, Confluence, Python, PyTest, Postman, and GitHub for agile task management and bug tracking.
+*   Led comprehensive **API testing** in collaboration with international teams to ensure **product quality** and **software integrity**.
+*   Developed **automation scripts** to streamline resource management and improve team efficiency.
+*   Utilized tools like Jira, Confluence, Python, PyTest, Postman, and GitHub for **agile task management** and **bug tracking**.
 
 ### **Jalasoft | QA Tester - Web Testing**
-*   Tested API/UI web functionalities for cloud object storage and file storage features.
-*   Developed and executed test cases using tools such as Postman, Jenkins, and BrowserStack.
-*   Contributed to optimizing testing processes with scripts and tools to enhance efficiency.
+*   Tested **API/UI web functionalities** for cloud object storage and file storage features.
+*   Developed and executed **test cases** using tools such as Postman, Jenkins, and BrowserStack for comprehensive **validación de software**.
+*   Contributed to optimizing **testing processes** with scripts and tools to enhance efficiency and **quality assurance**.
 
 ---
 
