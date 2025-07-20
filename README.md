@@ -11,6 +11,14 @@
   <a href="https://wa.me/59165242442" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Bolivia"> 🇧🇴</a>
 </p>
 
+
+<p align="center">
+  <a href="https://dgsoto.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Web"></a>
+  <a href="https://dgsoto.github.io/portfolio/blog" target="_blank"><img src="https://img.shields.io/badge/My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Personal"></a>
+  <a href="https://ejemplo.com/tu-cv-aqui.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-2196F3?style=for-the-badge&logo=googledocs&logoColor=white" alt="Descargar CV"></a>
+</p>
+
+
 ## 👋 Hi there! I'm Diego
 
 I am a **Quality Assurance (QA) Engineer** with roots in Cochabamba, Bolivia 🇧🇴, and currently based in Calama, Chile 🇨🇱. I have a strong passion for **automation** and creating efficient **testing processes**. My objective is to ensure the **highest software quality** by collaborating with global teams to deliver **robust and reliable products**, always focusing on **flawless user experiences** and **agile methodologies**.
