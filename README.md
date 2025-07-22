@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://dgsoto.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Web"></a>
   <a href="https://dgsoto.github.io/portfolio/blog.html" target="_blank"><img src="https://img.shields.io/badge/My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Personal"></a>
-  <a href="https://github.com/dgsoto/portfolio/blob/main/resume/Diego-Gonzales-Soto%20-Resume-QA-CV-Chile-EN.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-2196F3?style=for-the-badge&logo=googledocs&logoColor=white" alt="Descargar CV"></a>
+  <a href="https://github.com/dgsoto/portfolio/blob/main/resume/Diego-Gonzales-Soto-Resume-QA-CV-Chile-EN.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-2196F3?style=for-the-badge&logo=googledocs&logoColor=white" alt="Descargar CV"></a>
 </p>
 
 
